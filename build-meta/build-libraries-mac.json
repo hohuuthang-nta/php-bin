@@ -1,11 +1,17 @@
 [
-    "bzip2",
-    "zlib",
-    "openssl",
+    "lib-base",
+    "micro",
     "libiconv",
+    "zlib",
     "libxml2",
+    "php",
+    "bzip2",
+    "openssl",
     "curl",
     "libpng",
+    "libwebp",
+    "libjpeg",
+    "freetype",
     "sqlite",
     "libzip"
 ]
