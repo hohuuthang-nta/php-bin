@@ -21,6 +21,5 @@
     "simplexml",
     "sockets",
     "tokenizer",
-    "zip",
-    "xmlwriter"
+    "zip"
 ]
